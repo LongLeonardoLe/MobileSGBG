@@ -1,0 +1,46 @@
+#logo
+{
+	width: 100%;
+	height: 100%;
+}
+
+div.ui-footer p
+{
+	width: 100%;
+	height: 100%;
+}
+
+#header
+{
+	position: fixed;
+	background-color: black;
+	top: 0px;
+}
+
+#footer
+{
+	background-color: black;
+	position: fixed;
+	bottom: 0px;
+}
+
+p.categoryName
+{
+	color: white;
+	text-align: center;
+}
+
+#categoryPart
+{
+	width: 90%;
+	height: 50px;
+	border: none;
+	color: white;
+	padding-top: 28px;
+	border-radius: 15px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	cursor: pointer;
+	margin: 10px 5% 0 5%;
+}
