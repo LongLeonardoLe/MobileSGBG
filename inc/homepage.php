@@ -3,7 +3,7 @@
 
 	<div data-role="main" class="ui-content">
 		<a href="#newArrivals" data-transition="pop">
-			<div style="background-color: rgb(0, 0, 100); margin-top: 40px" id="categoryPart">
+			<div style="background-color: rgb(0, 0, 100)" id="categoryPart">
 					New Arrivals
 				</div>
 			</a>
